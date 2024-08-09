@@ -14,7 +14,7 @@ html, body
 
 body 
 {
-    background:#000000d3;
+    background:#f5d4d4;
     display:flex;
     justify-content:center;
     padding-top:1rem;
@@ -25,9 +25,10 @@ body
     height:8%;
     width:12%;
     color:#ffffff;
-    background:#f16304;
+    background:#5fb3e4;
     display:flex;
     justify-content:center;
     align-items:center;
+    font-weight:bolder;
 }
 
