@@ -1,0 +1,33 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html, body 
+{
+    height:100%;
+    width:100%;
+    font-size:16px;
+}
+
+body 
+{
+    background:#000000d3;
+    display:flex;
+    justify-content:center;
+    padding-top:1rem;
+}
+
+.box 
+{
+    height:8%;
+    width:12%;
+    color:#ffffff;
+    background:#f16304;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
